@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Ankur Bhattacharya
 
 <!--
 **ankurb86/ankurb86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### Hi! I'm Ankur Bhattacharya
-
 ## I love programming in C# and Python
 - 🔭 I'm currently a researching in Network Science on the Dissemination of False News in Social Networks as a part of the Complex Systems Adaptive Lab at the University of Cincinnati
 - 🔭 I'm also a part-time web developer in ASP.NET at the Office of Graduate Education at University of Cincinnati
@@ -37,12 +34,12 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-[<img align="left" alt="DotNet" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/dot-net.svg" />]
-[<img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/python.svg" />]
-[<img align="left" alt="Javascript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/javascript.svg" />]
-[<img align="left" alt="HTML5" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/html5.svg" />]
-[<img align="left" alt="CSS3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/css3.svg" />]
-[<img align="left" alt="MySQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/mysql.svg" />]
+<img align="left" alt="DotNet" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/dot-net.svg" />
+<img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/python.svg" />
+<img align="left" alt="Javascript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/javascript.svg" />
+<img align="left" alt="HTML5" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/html5.svg" />
+<img align="left" alt="CSS3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/css3.svg" />
+<img align="left" alt="MySQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/mysql.svg" />
 
 <br />
 

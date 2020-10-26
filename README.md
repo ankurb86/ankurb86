@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Ankur Bhattacharya
+### Hi there 👋, I'm Ankur Bhattacharya!
 
 <!--
 **ankurb86/ankurb86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## I love programming in C# and Python
+## I love coding in C# and Python
 - 🔭 I'm currently a researching in Network Science on the Dissemination of False News in Social Networks as a part of the Complex Systems Adaptive Lab at the University of Cincinnati
 - 🔭 I'm also a part-time web developer in ASP.NET at the Office of Graduate Education at University of Cincinnati
 - 🌱 I’m currently learning advanced techniques in C# Programming through Linkedin Learning
